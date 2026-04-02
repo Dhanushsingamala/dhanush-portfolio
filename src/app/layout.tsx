@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   title: "Dhanush Singamala | React Developer | CRM Builder",
   description:
     "Portfolio of Dhanush Singamala, a React Developer and CRM Builder focused on scalable web applications, dashboards, and modern frontend systems.",
+  verification: {
+    google: "KoDqLqmE9yJQ1G1G_ebp0sSPC2OaLyKWtCpq8odWiEU",
+  },
   openGraph: {
     title: "Dhanush Singamala | React Developer | CRM Builder",
     description:
