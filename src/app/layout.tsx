@@ -19,7 +19,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://dhanush-portfolio.vercel.app"),
+  metadataBase: new URL("https://dhanush-portfolio-seven-jade.vercel.app"),
   title: "Dhanush Reddy | React Developer | CRM Builder",
   description:
     "Portfolio of Dhanush Reddy, a React Developer and CRM Builder focused on scalable web applications, dashboards, and modern frontend systems.",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     title: "Dhanush Reddy | React Developer | CRM Builder",
     description:
       "Explore projects, skills, and professional background of Dhanush Reddy.",
-    url: "https://dhanush-portfolio.vercel.app",
+    url: "https://dhanush-portfolio-seven-jade.vercel.app",
     siteName: "Dhanush Reddy Portfolio",
     type: "website",
   },

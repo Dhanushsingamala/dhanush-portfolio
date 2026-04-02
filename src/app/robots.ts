@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://dhanush-portfolio.vercel.app/sitemap.xml",
+    sitemap: "https://dhanush-portfolio-seven-jade.vercel.app/sitemap.xml",
   };
 }
