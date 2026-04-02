@@ -20,25 +20,28 @@ const ibmPlexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://dhanush-portfolio-seven-jade.vercel.app"),
-  title: "Dhanush Reddy | React Developer | CRM Builder",
+  title: "Dhanush Singamala | React Developer | CRM Builder",
   description:
-    "Portfolio of Dhanush Reddy, a React Developer and CRM Builder focused on scalable web applications, dashboards, and modern frontend systems.",
+    "Portfolio of Dhanush Singamala, a React Developer and CRM Builder focused on scalable web applications, dashboards, and modern frontend systems.",
   openGraph: {
-    title: "Dhanush Reddy | React Developer | CRM Builder",
+    title: "Dhanush Singamala | React Developer | CRM Builder",
     description:
       "Explore projects, skills, and professional background of Dhanush Reddy.",
     url: "https://dhanush-portfolio-seven-jade.vercel.app",
-    siteName: "Dhanush Reddy Portfolio",
+    siteName: "Dhanush Singamala  Portfolio",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dhanush Reddy | React Developer | CRM Builder",
+    title: "Dhanush Singamala | React Developer | CRM Builder",
     description:
       "Portfolio featuring CRM systems, React Native apps, and web dashboards.",
   },
   keywords: [
     "Dhanush Reddy",
+    "Dhanush Singamala",
+    "Dhanush Portfolio",
+    "Software Developer",
     "React Developer",
     "CRM Builder",
     "Next.js Portfolio",

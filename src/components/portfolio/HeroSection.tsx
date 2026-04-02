@@ -77,10 +77,10 @@ export function HeroSection() {
               Building practical products
             </motion.p>
             <motion.h1 variants={heroItem} className="font-display max-w-2xl text-5xl font-bold leading-[1.02] text-zinc-100 sm:text-6xl md:text-7xl">
-              Dhanush Reddy
+             @ Dhanush Reddy Singamala 
             </motion.h1>
             <motion.p variants={heroItem} className="max-w-xl text-xl leading-8 text-zinc-300 sm:text-2xl">
-              React Developer | CRM Builder
+                Software Developer | MERN Stack Enthusiast
             </motion.p>
             <motion.p variants={heroItem} className="max-w-xl text-base leading-7 text-zinc-400">
               I design and build reliable digital products with modern frontend architecture, scalable APIs,
